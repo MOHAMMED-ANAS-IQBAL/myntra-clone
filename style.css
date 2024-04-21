@@ -1,0 +1,49 @@
+body{
+    height: 100%;
+    width: 100%;
+}
+
+nav .topnav img{
+    height: 80px;
+    width: 80px;
+}
+
+.container{
+    max-width: 100%;
+    margin:auto ;
+}
+
+header nav div ul li{
+    list-style: none;
+    padding: 0 20px;
+
+}
+
+.bold{
+    font-weight: bold;
+    color: #282C3f
+}
+
+header nav div div ul li sup{
+    color: #ff3f6c;
+}
+
+header .topnav div .search_logo{
+    height: 40px;
+    width: 37px;
+}
+
+.searchbar{
+    width: 300px
+}
+
+.mg_2{
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+header{
+    position:sticky;
+    top:0;
+    background-color: white;
+}
